@@ -3,6 +3,7 @@ This is a collection of ML/DL models for stock forecasting. There are 3 forecast
 1. LSTM Network
 2. GRU Network
 3. Convolutional Neural Network
+
 The models are run in jupyter notebooks that are in the "models" folder. Each notebook both runs and visualizes the forecast. Each of them currently have a S&P 500 forecast as an example. Each model is also deployed on the web through binder, linked below.
 
 ## Models - Deployed Notebooks on Web
