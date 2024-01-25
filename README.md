@@ -2,9 +2,9 @@
 Collection of different ML/DL models for stock forecasting.
 
 ## Models - Deployed Notebooks on Web
-1. LSTM: [https://hub.binder.curvenote.dev/user/liamjdavis-stock-forecasters-9qd2yu6e/doc/tree/models/LSTM.ipynb](https://hub.binder.curvenote.dev/user/liamjdavis-stock-forecasters-le8stpfx/lab/tree/models/LSTM.ipynb)
-2. GRU: [https://hub.binder.curvenote.dev/user/liamjdavis-stock-forecasters-9qd2yu6e/doc/tree/models/GRU.ipynb](https://hub.binder.curvenote.dev/user/liamjdavis-stock-forecasters-le8stpfx/lab/tree/models/GRU.ipynb)
-3. CNN: [https://hub.binder.curvenote.dev/user/liamjdavis-stock-forecasters-9qd2yu6e/doc/tree/models/CNN.ipynb](https://hub.binder.curvenote.dev/user/liamjdavis-stock-forecasters-le8stpfx/lab/tree/models/CNN.ipynb)
+1. LSTM: https://mybinder.org/v2/gh/liamjdavis/Stock-Forecasters/223e47c4874cf588a53d9b428d64524e7715f741?urlpath=lab%2Ftree%2Fmodels%2FLSTM.ipynb
+2. GRU: https://mybinder.org/v2/gh/liamjdavis/Stock-Forecasters/223e47c4874cf588a53d9b428d64524e7715f741?urlpath=lab%2Ftree%2Fmodels%2FGRU.ipynb
+3. CNN: https://mybinder.org/v2/gh/liamjdavis/Stock-Forecasters/223e47c4874cf588a53d9b428d64524e7715f741?urlpath=lab%2Ftree%2Fmodels%2FGRU.ipynb
 
 All dependencies are installed in the web versions. To run a forecast, input the stock ticker to forecast in the first codeblock and run(further instructions in each notebook.) To run on a local machine, follow this installation process:
 
